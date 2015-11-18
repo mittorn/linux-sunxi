@@ -6,6 +6,7 @@ obj-$(CONFIG_MEMSIC_ECOMPASS)	+= mecs.o
 obj-$(CONFIG_SENSORS_MXC6202X)	+= mxc6202x.o
 obj-$(CONFIG_SENSORS_MXC622X)	+= mxc622x.o
 obj-$(CONFIG_SENSORS_MMC31XX)	+= mmc31xx.o
+obj-$(CONFIG_SENSORS_DMARD06)	+= dmard06.o
 
 obj-$(CONFIG_SENSORS_BMA250)		+= bma250.o
 
